@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently as a backend developer<br>🤝 My current stack: Java - Spring-boot<br>
+🔭 I’m currently working as a backend developer<br>🤝 My current stack: Java - Spring-boot<br>
 
 
 # 💻 Tech Stack:
