@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working as a backend developer<br>🤝 My current stack: Java - Spring-boot<br>
+🔭 Whether using Java or Python, the specific language is less important. Ultimately, it's the entire development process that truly matters.<br>🤝<br>
 
 
 # 💻 Experiences:
